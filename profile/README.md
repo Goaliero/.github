@@ -1,3 +1,5 @@
+<img src="https://goaliero.com/wp-content/uploads/2022/09/goaliero_logo.png" />
+
 Goaliero is an AI Driven Prediction Platform for Events in Sports
 
 Goaliero is made by a team of football enthusiasts and programmers from the Lab404 AI Division that are dedicated to bringing you the latest and most advanced Artificial Intelligence (AI) football predictions algorithms and Machine Learning (ML) algorithms.
