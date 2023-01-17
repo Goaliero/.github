@@ -1,4 +1,4 @@
-<img src="https://goaliero.com/wp-content/uploads/2022/09/goaliero_logo.png" />
+<img src="https://raw.githubusercontent.com/Goaliero/.github/main/profile/goaliero_logo.webp" />
 
 ## Goaliero is an AI-Driven Prediction Platform for Events in Football
 
@@ -17,3 +17,5 @@ We use predictive analytics to create detailed match simulations, which can show
 Our team is also constantly working on improving our algorithms by incorporating new data and deep learning techniques, this allows our predictions to adapt to new data and learn from past mistakes, making them even more accurate over time.
 
 At Goaliero we believe that technology has the power to revolutionize the way football is understood and played and we are committed to using our expertise to enhance the understanding of the beautiful game and bring more excitement to the fans.
+
+<img src="https://raw.githubusercontent.com/Goaliero/.github/main/profile/playerballtracking.gif" />
