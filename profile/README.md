@@ -18,4 +18,6 @@ Our team is also constantly working on improving our algorithms by incorporating
 
 At Goaliero we believe that technology has the power to revolutionize the way football is understood and played and we are committed to using our expertise to enhance the understanding of the beautiful game and bring more excitement to the fans.
 
-<center><img src="https://raw.githubusercontent.com/Goaliero/.github/main/profile/playerballtracking.gif" /></center>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Goaliero/.github/main/profile/playerballtracking.gif" />
+</p>
