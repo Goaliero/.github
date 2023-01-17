@@ -16,7 +16,7 @@ We use predictive analytics to create detailed match simulations, which can show
 
 Our team is also constantly working on improving our algorithms by incorporating new data and deep learning techniques, this allows our predictions to adapt to new data and learn from past mistakes, making them even more accurate over time.
 
-At Goaliero we believe that technology has the power to revolutionize the way football is understood and played and we are committed to using our expertise to enhance the understanding of the beautiful game and bring more excitement to the fans.
+At Goaliero we believe that technology has the power to revolutionize the way football is understood and played and we are committed to using our expertise to enhance the understanding of the beautiful game and bring more excitement to the fans. 👍
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Goaliero/.github/main/profile/playerballtracking.gif" />
